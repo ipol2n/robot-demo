@@ -1,0 +1,6 @@
+decorator==4.0.10
+docutils==0.12
+future==0.16.0
+robotframework==3.0
+robotframework-selenium2library==1.8.0b2
+selenium==3.0.1

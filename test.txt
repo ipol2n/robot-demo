@@ -1,0 +1,7 @@
+*** Settings ***
+Library           Selenium2Library
+
+
+*** Test Cases ***
+Open Browser To Login Page
+    Open Browser	https://google.com	ff
